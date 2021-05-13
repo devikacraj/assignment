@@ -1,5 +1,10 @@
 # pattern
 In this program we have to print star in the shape of pyramid.
+in order to take input use scanner
+
+import java.util.Scanner;
+
+
 I have intialized 3 variables i,j,k and row,where,
 i for rows and k for columns and j to print start,
 row denotes the number of rows you want to print,  
