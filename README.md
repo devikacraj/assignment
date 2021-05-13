@@ -2,7 +2,7 @@
 In this program we have to print star in the shape of pyramid.
 in order to take input use scanner
 
-import java.util.Scanner;
+       import java.util.Scanner;
 
 
 I have intialized 3 variables i,j,k and row,where,
